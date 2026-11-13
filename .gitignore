@@ -1,2 +1,8 @@
 Data/*.h5ad
 .DS_Store
+
+# Environnement Python
+.venv/
+
+# Données
+data/
