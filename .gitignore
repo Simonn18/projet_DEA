@@ -3,6 +3,7 @@ Data/*.h5ad
 
 # Environnement Python
 .venv/
+.Env_Projet_DEA/
 
 # Données
 data/
